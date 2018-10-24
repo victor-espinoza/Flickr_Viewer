@@ -1,4 +1,3 @@
-# FlickrViewer
 Project Overview:    
 Project that allows users to search and view different pictures uploaded to the Flickr API.    
 
